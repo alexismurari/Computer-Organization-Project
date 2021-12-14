@@ -1,4 +1,4 @@
------------------How to play!-----------------
+# How to play!
 
 - Use any key to play the game
 - The tile will be dropped after key is released
